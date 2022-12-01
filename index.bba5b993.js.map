@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAIA,OAAO,gBAAiB,CACxBC,WAAY,CACRC,OAAQ,sBACRC,OAAQ","sources":["src/index.js"],"sourcesContent":["new Swiper('.image-slider', {\n    navigation: {\n        nextEl: '.swiper-button-next',\n        prevEl: '.swiper-button-prev'\n    },\n});"],"names":["Swiper","navigation","nextEl","prevEl"],"version":3,"file":"index.bba5b993.js.map"}
